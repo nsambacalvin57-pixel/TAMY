@@ -17,7 +17,7 @@ async def home():
     </head>
     <body>
     <h1>🌍 TAMY Worldwide</h1>
-    <h2>WhatsApp HD & View Once Opener</h2>
+    <h2>TAMY & View Once Opener</h2>
     <div class="box">
     <h3>✅ TAMY is LIVE!</h3>
     <p>Your worldwide app is running successfully!</p>
